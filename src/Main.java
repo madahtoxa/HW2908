@@ -11,5 +11,7 @@ public class Main {
         book1.setBookYear(2022);
         System.out.println("год после сеттера - " + book1.getBookYear());
 
+
+
     }
 }
